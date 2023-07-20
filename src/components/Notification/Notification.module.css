@@ -1,11 +1,5 @@
-.section {
-  margin-bottom: 20px;
-  padding-top: 10px;
-}
-
-.title {
-  margin: 0;
-  font-size: 40px;
+.message {
+  padding-bottom: 20px;
   text-align: center;
 
   background-image: radial-gradient(
